@@ -1,3 +1,3 @@
 # DS501_Capstone
 
-Learn how to pull
+Capstone project for ds501
