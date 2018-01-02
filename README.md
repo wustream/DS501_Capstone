@@ -1,4 +1,4 @@
-# DS501_Capstone
+# DS501_Capstone: Churn Prediction Music Box Users
 
 Capstone project for ds501
 
